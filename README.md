@@ -1,2 +1,2 @@
 # Speak-Mellon-and-Enter
-Melons will jiggle.
+Test game made on a VR Course.
